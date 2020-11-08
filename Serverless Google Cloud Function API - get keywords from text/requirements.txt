@@ -1,0 +1,6 @@
+six
+git+git://github.com/ramsrigouthamg/pke.git
+spacy==2.2.4
+nltk==3.3
+thinc==7.4.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
